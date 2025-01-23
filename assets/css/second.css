@@ -62,8 +62,8 @@ article::-webkit-scrollbar {
 }
 
 .img img {
-  width: 100vw; /* Corrige el ancho de visualización */
-  height: auto; /* Asegura proporciones de imagen */
+  width: 100vw;
+  height: auto;
 }
 
 .highlight {
