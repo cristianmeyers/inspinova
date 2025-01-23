@@ -38,7 +38,8 @@ body::after {
 a {
   color: var(--main-color);
 }
-strong {
+strong,
+h3 {
   color: var(--main-color);
 }
 article {
